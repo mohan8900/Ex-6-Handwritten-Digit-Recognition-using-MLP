@@ -29,9 +29,9 @@ Step 6:End the program.
 
 ## Program:
 
-### Developed by : R.Brindha
+### Developed by : A K MOHAN RAJ
 
-### Reg.No : 212222230023
+### Reg.No : 212221230064
 ```
 Program to Recognize the Handwritten Digits using Multilayer perceptron (MLP).
 
